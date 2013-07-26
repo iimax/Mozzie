@@ -202,6 +202,10 @@
     <Content Include="Views\Web.config" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\Mozzie.Core\Mozzie.Core.csproj">
+      <Project>{E30A6247-AB20-4EAE-9B21-8AF41F173AA1}</Project>
+      <Name>Mozzie.Core</Name>
+    </ProjectReference>
     <ProjectReference Include="..\Mozzie.Data\Mozzie.Data.csproj">
       <Project>{8E877BD7-15FC-4439-8036-9937972C588E}</Project>
       <Name>Mozzie.Data</Name>
@@ -209,10 +213,6 @@
     <ProjectReference Include="..\Mozzie.Models\Mozzie.Models.csproj">
       <Project>{D21084D6-38EE-494C-87FB-ADB19A7D81D8}</Project>
       <Name>Mozzie.Models</Name>
-    </ProjectReference>
-    <ProjectReference Include="Mozzie.Core\Mozzie.Core.csproj">
-      <Project>{E30A6247-AB20-4EAE-9B21-8AF41F173AA1}</Project>
-      <Name>Mozzie.Core</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>

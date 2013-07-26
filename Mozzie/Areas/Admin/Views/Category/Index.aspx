@@ -11,7 +11,12 @@
         <li><a href="form-wizard.html">标签</a></li>
       </ul>
     </li>
-    <li><a href="tables.html"><i class="icon icon-th"></i> <span>页面</span></a></li>
+    <li class="submenu"> <a href="#"><i class="icon icon-th"></i> <span>页面</span> <span class="label label-important">4</span></a>
+      <ul>
+        <li><%:Html.ActionLink("所有页面", "Index","Page")%></li>
+        <li><%:Html.ActionLink("新建页面", "Create","Page")%></li>
+      </ul>
+    </li>
     <li><a href="widgets.html"><i class="icon icon-inbox"></i> <span>插件</span></a> </li>
     <li class="submenu"> <a href="/Admin/Theme/"><i class="icon icon-file"></i> <span>外观主题</span> <span class="label label-important">5</span></a>
       <ul>

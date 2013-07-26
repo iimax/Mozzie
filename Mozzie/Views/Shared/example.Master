@@ -91,19 +91,19 @@
           <div class="row-fluid">
 
             <div class="span4">
-              <h2>Heading</h2>
-              <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
-              <p><a class="btn" href="#">View details &raquo;</a></p>
+              <h2>分类管理</h2>
+              <p>为网站提供自定义分类，支持名称和自定义url，SEO更强大. </p>
+              <p><a class="btn btn-primary" href="/Admin/Category/">猛击进入 &raquo;</a></p>
             </div><!--/span-->
             <div class="span4">
-              <h2>Heading</h2>
-              <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
-              <p><a class="btn" href="#">View details &raquo;</a></p>
+              <h2>页面管理</h2>
+              <p>页面管理，提供 标题、url、内容、模版、父页面（多层）功能. </p>
+              <p><a class="btn btn-warning" href="/Admin/Page">请点击 &raquo;</a></p>
             </div><!--/span-->
             <div class="span4">
-              <h2>Heading</h2>
-              <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
-              <p><a class="btn" href="#">View details &raquo;</a></p>
+              <h2>主题</h2>
+              <h2>敬请期待</h2>
+              <p><a class="btn btn-danger" href="/Admin/Theme">View details &raquo;</a></p>
             </div><!--/span-->
           </div><!--/row-->
           <div class="row-fluid">
@@ -129,7 +129,7 @@
       <hr>
 
       <footer>
-        <p>&copy; Company 2013</p>
+        <p>&copy; Mozzie 2013</p>
       </footer>
 
     </div><!--/.fluid-container-->

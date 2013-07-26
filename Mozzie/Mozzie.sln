@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mozzie.Models", "..\Mozzie.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mozzie.Data", "..\Mozzie.Data\Mozzie.Data.csproj", "{8E877BD7-15FC-4439-8036-9937972C588E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mozzie.Core", "Mozzie.Core\Mozzie.Core.csproj", "{E30A6247-AB20-4EAE-9B21-8AF41F173AA1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mozzie.Core", "..\Mozzie.Core\Mozzie.Core.csproj", "{E30A6247-AB20-4EAE-9B21-8AF41F173AA1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
