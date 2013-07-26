@@ -1,7 +1,7 @@
 ##Mozzie是什么?
 一个正在开发的CMS，采用ASP.NET MVC2开发
 
-向Mac下优秀的markdown编辑器mou致敬
+后台采用twitter的bootstrap，非常优秀，强烈推荐
 
 ##Mozzie有哪些功能？
 
